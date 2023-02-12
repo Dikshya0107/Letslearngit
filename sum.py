@@ -1,5 +1,5 @@
 def funct(a,b):
     c = a+b
-    print(c)
+    print("Sum is :"+ c)
 
 funct(2,10)
